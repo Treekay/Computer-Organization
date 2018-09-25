@@ -1,0 +1,56 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Thu May 24 21:35:09 2018
+# Process ID: 5764
+# Current directory: C:/Users/admin/Desktop/CPU/MonoCycleCPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5032 C:\Users\admin\Desktop\CPU\MonoCycleCPU\MonoCycleCPU.xpr
+# Log file: C:/Users/admin/Desktop/CPU/MonoCycleCPU/vivado.log
+# Journal file: C:/Users/admin/Desktop/CPU/MonoCycleCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/Desktop/CPU/MonoCycleCPU/MonoCycleCPU.xpr
+launch_simulation
+source test.tcl
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+restart
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+run 100 ns
+close_sim

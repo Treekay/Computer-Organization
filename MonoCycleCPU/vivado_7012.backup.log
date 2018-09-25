@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sun May 20 01:45:28 2018
+# Process ID: 7012
+# Current directory: C:/Users/admin/Desktop/CPU/MonoCycleCPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2148 C:\Users\admin\Desktop\CPU\MonoCycleCPU\MonoCycleCPU.xpr
+# Log file: C:/Users/admin/Desktop/CPU/MonoCycleCPU/vivado.log
+# Journal file: C:/Users/admin/Desktop/CPU/MonoCycleCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/Desktop/CPU/MonoCycleCPU/MonoCycleCPU.xpr
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] IP Output Repository Path: Could not find the directory 'C:/Users/admin/Desktop/CPU/MonoCycleCPU/MonoCycleCPU.cache/ip'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2016.3/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:16 . Memory (MB): peak = 732.102 ; gain = 130.684
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun May 20 01:46:34 2018...

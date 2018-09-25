@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Jun 18 16:28:44 2018
+# Process ID: 1720
+# Current directory: C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7108 C:\Users\admin\Desktop\大二下\专必\计组实验\实验二单周期cpu\作业\ECOP-16340085-02\MonoCycleCPU\MonoCycleCPU.xpr
+# Log file: C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU/vivado.log
+# Journal file: C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU/MonoCycleCPU.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU'
+INFO: [Project 1-313] Project file moved from 'C:/Users/admin/Desktop/CPU/MonoCycleCPU' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IP Output Repository Path: Could not find the directory 'C:/Users/admin/Desktop/大二下/专必/计组实验/实验二单周期cpu/作业/ECOP-16340085-02/MonoCycleCPU/MonoCycleCPU.cache/ip', nor could it be found using path 'C:/Users/admin/Desktop/CPU/MonoCycleCPU/MonoCycleCPU.cache/ip'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2016.3/data/ip'.
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 694.770 ; gain = 122.398
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jun 18 16:52:20 2018...
