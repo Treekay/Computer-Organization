@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Jun 25 19:05:06 2018
+# Process ID: 7556
+# Current directory: C:/Users/admin/Desktop/MultiCycleCPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12700 C:\Users\admin\Desktop\MultiCycleCPU\MultiCycleCPU.xpr
+# Log file: C:/Users/admin/Desktop/MultiCycleCPU/vivado.log
+# Journal file: C:/Users/admin/Desktop/MultiCycleCPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/Desktop/MultiCycleCPU/MultiCycleCPU.xpr
+launch_simulation
+launch_simulation
+launch_simulation
